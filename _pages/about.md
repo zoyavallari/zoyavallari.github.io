@@ -16,4 +16,9 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-This site is under construction. Check back in a month for further updates.
+<p style="color:Gray;"> <i> This site is currently under construction. Check back soon for further updates. </i> </p>
+
+I am an experimental particle physicist studying small fundamental particles called neutrinos.
+Neutrinos come in three flavors and oscillate from one kind to another depending on their energy and the distance traveled.
+I work on the flagship US experiments studying long-baseline neutrino oscillations, <a href='https://novaexperiment.fnal.gov/'>NOvA</a> and <a href='https://www.dunescience.org/'>DUNE</a>.
+Precise measurement of the oscillation parameters gives us insight into the fundamental physics theories which govern how particles interact with each other.

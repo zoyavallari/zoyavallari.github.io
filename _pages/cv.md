@@ -2,9 +2,11 @@
 layout: page
 permalink: /cv/
 title: curriculum vitae
-description: CV
+description: #
 nav: true
 ---
 
+
+<p><a href="/assets/pdf/CV_ZoyaVallari.pdf">[PDF]</a></p>
 
 
