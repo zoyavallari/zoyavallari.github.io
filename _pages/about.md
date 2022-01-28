@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.caltech.edu/'>Postdoctoral Scholar, Caltech.</a> zoya [at] caltech [dot] edu .
+subtitle: Postdoctoral Scholar, <a href='https://www.caltech.edu/'>Caltech.</a> zoya [at] caltech [dot] edu.
 
 profile:
   align: right
   image: ZV_2021_3.jpeg
+  cv: <p align="right"><a href="/assets/pdf/CV_ZoyaVallari.pdf">Curriculum Vitae</a></p> 
 
 research_interest: true
 news: true  # includes a list of news items
