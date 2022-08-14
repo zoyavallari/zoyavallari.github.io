@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-02-08 
+date: 2022-04-10 
 inline: true
 ---
 
-3-flavor oscillation talk at XIX Neutrino Telescope 2021
+Invited plenary talk "Prospects for long-baseline neutrino physics in 2020s" at APS April 2022.
+

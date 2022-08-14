@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-02-07
+date: 2022-08-04
 inline: true
 ---
 
-Seminar on NOvA 3-flavor neutrino oscillation at Michigan State University, East Lansing, MI
+Presented <a href='https://indico.fnal.gov/event/53004/sessions/20319/#20220804'> "The Path of Precision: Role of the DUNE Near Detector"</a> parallel talk at the NuFACT 2022.
