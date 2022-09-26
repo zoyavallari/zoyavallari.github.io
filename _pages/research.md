@@ -68,19 +68,19 @@ We are testing a 2 x 2 grid of modular LAr detector in the NuMi beam facility at
 
 <div class="row mt-3">
       <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/cropped_evd_mod0.gif" title="3-flavor neutrino oscillation" class="img-fluid rounded z-depth-1"%}
+       {% include figure.html path="assets/img/cropped_evd_mod0.gif" title="Module-0 Cosmic Ray Event" class="img-fluid rounded z-depth-1"%}
      </div>
 
       <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/cropped_evd3_mod0.gif" title="3-flavor neutrino oscillation" class="img-fluid rounded z-depth-1"%}
+       {% include figure.html path="assets/img/cropped_evd3_mod0.gif" title="Module-0 Cosmic Ray Event" class="img-fluid rounded z-depth-1"%}
      </div>
 
       <div class="col-sm mt-3 mt-md-0">
-       {% include figure.html path="assets/img/cropped_evd2_mod0.gif" title="3-flavor neutrino oscillation" class="img-fluid rounded z-depth-1"%}
+       {% include figure.html path="assets/img/cropped_evd2_mod0.gif" title="Module-0 Cosmic Ray Event" class="img-fluid rounded z-depth-1"%}
      </div>
 </div>
 <div class="caption">
-     Raw event displays from the trial runs of a single module of the modular pixelated LAr detector at University of Bern, Switzerlan in 2021. [Image Credit: <a href="https://argoncube.org/tracks.html">ArgonCube Collaboration</a>] 
+     Raw event displays from the trial runs of a single module of the modular pixelated LAr detector at University of Bern, Switzerland in 2021. [Image Credit: <a href="https://argoncube.org/tracks.html">ArgonCube Collaboration</a>] 
      </div>
 
 ***

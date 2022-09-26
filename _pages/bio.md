@@ -22,8 +22,8 @@ I chose to be a "Vallari" after seriously considering "AAA" which would have ete
 
 
 
-<p> Apart from physics, I do capoeira. It is an Afro-Brazilian martial-arts with a deep rooted history in Black liberation.
-I trained as a Kathak (Indian classical dance) dancer throughout my childhood, for almost 15 years.
+<p> Apart from physics, I do capoeira. It is an Afro-Brazilian martial-arts with a deep rooted history in Black liberation. 
+I trained as a Kathak (Indian classical dance) dancer throughout my childhood, for almost 15 years. I recently took up drumming on a whim and am absolutely loving it.
 I am obsessed with mangoes and I am extremely fond of sunshine. </p>
 
 
