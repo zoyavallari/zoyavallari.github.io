@@ -20,7 +20,8 @@
     <script async type="text/json">{
       "title": "{{ page.title }}",
       "description": "{{ page.description }}",
-      "published": "{{ page.date | date: '%B %-d, %Y' }}",
+ <!--
+    "published": "{{ page.date | date: '%B %-d, %Y' }}",
       "authors": [
         {% for author in page.authors -%}
         {
@@ -49,7 +50,8 @@
           }
         ]
       }
-    }</script>
+ -->
+}</script>
   </d-front-matter>
 
   <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
@@ -65,7 +67,7 @@
         <p>{{ page.description }}</p>
       </d-title>
 
-      <d-byline></d-byline>
+     <!-- <d-byline></d-byline> -->
 
       <d-article>
         {% if page.toc -%}
