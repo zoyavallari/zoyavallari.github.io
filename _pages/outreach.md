@@ -14,12 +14,12 @@ The demos cover a wide range of topics from general relativity and neutrino osci
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/caveat_demo.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/caveat_demo.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 	<div class="caption">
     	Explaining General Relativity with a demo at Taste of Science Block Party at Caveat, New York City.
 	</div>
   <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/GWISE_Exhibition.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/GWISE_Exhibition.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
 	<div class="caption">
 	Organized Women in STEM poster exhibition to celebrate International Women's Day as President of GWISE, Stony Brook University.
 	</div>

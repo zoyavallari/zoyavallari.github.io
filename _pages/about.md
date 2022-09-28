@@ -27,7 +27,7 @@ The detection of neutrino oscillations provided conclusive evidence that neutrin
 This remains the first and only experimental confirmation of physics beyond the Standard Model.
 
 Today, neutrinos continue to provide a rich environment to explore fundamental physics.
-I work on the flagship US experiments studying long-baseline neutrino oscillations, <a href='https://novaexperiment.fnal.gov/'>NOvA</a> and <a href='https://www.dunescience.org/'>DUNE</a>.
+I work on the flagship US experiments studying long-baseline neutrino oscillations, <a href='https://novaexperiment.fnal.gov/'>NOvA</a>, and <a href='https://www.dunescience.org/'>DUNE</a>.
 Precise measurement of the oscillation parameters gives us insight into the fundamental physics theories which govern how particles interact with each other.
 <!--
 Precise measurement of the oscillation parameters will unambiguously resolve questions such as the neutrino mass ordering and present a remarkable potential to discover CP violation in neutrinos, giving us 
