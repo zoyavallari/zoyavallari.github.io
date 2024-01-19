@@ -1,31 +1,27 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: neutrino oscillation
+description: exploring the neutrino sector via long baseline neutrino oscillation measurements
+img: assets/img/nuosc_symmetry.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The detection of neutrino oscillations provided conclusive evidence that neutrinos are massive.
+This remains the first and only experimental confirmation of physics ``beyond the Standard Model" which predicted massless neutrinos.
+In the last two decades, neutrino oscillation experiments have made significant advancement in the measurement of neutrino mixing parameters.
+However, key questions such as the neutrino mass ordering and charge-parity violation in neutrinos still remain unknown.
+Neutrinos continue to provide a rich environment to explore fundamental physics.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The primary goals of accelerator based long-baseline neutrino oscillation experiments are establishing the octant of the $\theta_{23}$ mixing angle, determination of the mass ordering of neutrinos and discovery of CP violations in neutrinos.
+    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nuosc_symmetry.png" title="3-flavor neutrino oscillation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/massordering.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -78,3 +74,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
