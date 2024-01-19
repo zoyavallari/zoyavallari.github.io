@@ -17,4 +17,5 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem 'jekyll-sass-converter', '2.1.0'
 end
