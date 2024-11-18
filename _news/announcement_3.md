@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-04-10 
+date: 2024-05-06 
 inline: true
 ---
 
-Invited plenary talk <i>"Prospects for long-baseline neutrino physics in 2020s"</i> at APS April 2022.
-
+I received the 2024 Leona Woods Lecturership Award for contributions to neutrino oscillation experimental physics. Read more <a href ='https://www.bnl.gov/newsroom/news.php?a=221866'>here</a>.

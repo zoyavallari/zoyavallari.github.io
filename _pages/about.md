@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar, <a href='https://www.caltech.edu/'>Caltech.</a> zoya [at] caltech [dot] edu.
+subtitle: Incoming Assistant Professor, Jan 2025, <a href='https://https://physics.osu.edu/'>Ohio State University. 
+#</a> vallari [dot] 2 [at] osu [dot] edu.
 
 profile:
   align: right

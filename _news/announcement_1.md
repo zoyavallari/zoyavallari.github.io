@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-04
+date: 2025-01-01
 inline: true
 ---
 
-Presented <a href='https://indico.fnal.gov/event/53004/sessions/20319/#20220804'> "The Path to Precision: Role of the DUNE Near Detector"</a> at the NuFACT 2022.
+I am joining as an Assistant Professor of Physics at Ohio State University.
