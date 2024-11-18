@@ -50,7 +50,12 @@ The demos cover a wide range of topics from general relativity and neutrino osci
 
 
 
-* <h5>Article:</h5>  <a href="https://sbpress.com/2017/03/breaking-boundaries-home-and-abroad/"> Breaking Boundaries, Home and Abroad</a>
+* <h5>Article:</h5> 
+
+ <a href="https://www.bnl.gov/newsroom/news.php?a=221866"> Zoya Vallari Receives 2024 Leona Woods Lectureship Award</a>
+{% include figure.html path="assets/img/leona-woods-zoya-2024-1000px.jpg" class="img-fluid rounded z-depth-1" %}
+
+ <a href="https://sbpress.com/2017/03/breaking-boundaries-home-and-abroad/"> Breaking Boundaries, Home and Abroad</a>
 {% include figure.html path="assets/img/SBPressArticle.jpeg" class="img-fluid rounded z-depth-1" %}
 
 
