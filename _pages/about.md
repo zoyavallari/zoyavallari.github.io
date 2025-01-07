@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Assistant Professor, Jan 2025, <a href='https://https://physics.osu.edu/'>Ohio State University. 
-#</a> vallari [dot] 2 [at] osu [dot] edu.
+subtitle: Assistant Professor, <a href='https://https://physics.osu.edu/'>Ohio State University. </a> <br> Email&#58; zoya@physics.osu.edu
 
 profile:
   align: right
